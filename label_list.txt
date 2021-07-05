@@ -1,0 +1,11 @@
+Sc 0
+Ac 1
+Ns 2
+Ci 3
+Cu 4
+Cs 5
+Ct 6
+St 7
+As 8
+Cc 9
+Cb 10
